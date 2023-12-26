@@ -27,7 +27,4 @@ Ensure you have Python 3.x installed and follow these steps:
 If you are interested in contributing to the project, please follow the contributing guidelines or contact the repository owner.
 
 ## License
-Details on the licensing agreement for the project, such as MIT, GPL, etc.
-
-## Conclusion
-Emoji Expression Spectrum Analyzer offers a comprehensive exploration of digital communication through emojis. It’s a standalone desktop application that combines data analysis, visualization, and interactive features for a unique and insightful experience. Download and explore your emoji personality today! 🚀💡🌐
+n/a
